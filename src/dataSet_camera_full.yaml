@@ -1,0 +1,5 @@
+train: D:/Training_model/dataSet/dataSet_camera_full/train/images
+val: D:/Training_model/dataSet/dataSet_camera_full/val/images
+test: D:/Training_model/dataSet/dataSet_camera_full/test/images
+nc: 2
+names: ["D_t1", "D_t2"]
